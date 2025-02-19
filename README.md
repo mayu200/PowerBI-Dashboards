@@ -3,7 +3,7 @@
 # 📌 Description
 Power Dashboards is a collection of interactive data visualization projects 🎯, designed to analyze and interpret complex datasets using Power BI and Excel. These dashboards provide meaningful insights 📊 across various domains, helping users make data-driven decisions with ease!
 
-# 📊 Dashboards Included
+  # 📊 Dashboards Included
 
 # 🔹 HR Analytics Dashboard (Power BI)
 📌 Overview:
