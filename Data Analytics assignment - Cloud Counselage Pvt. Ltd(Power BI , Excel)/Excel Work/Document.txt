@@ -1,0 +1,18 @@
+Task 2 - Data Cleaning (Completed in Excel)
+In the Data(All Events Data) Updated file, I completed the following data cleaning tasks:
+
+Identify and Remove Duplicates:
+Removed duplicate rows based on the Emails column to ensure unique entries.
+
+Remove Null Values:
+Identified and removed rows containing null (empty) values across all columns.
+
+Filter Data for Designation:
+Extracted data where the Designation column is marked as "Student."
+
+Combine Responses:
+Combined responses from the 'How did you come to know about this event?' column into the Others column.
+Renamed the combined column as 'Others (After combining)'.
+
+Saved Updated File:
+Saved the final cleaned dataset as Data(All Events Data) Updated, which includes all the necessary updates.
