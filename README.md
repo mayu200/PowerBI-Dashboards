@@ -5,12 +5,12 @@ Power Dashboards is a collection of interactive data visualization projects 🎯
 
   # 📊 Dashboards Included
 
-# Data Analytics Assignment 📌
-#  1. Introduction
+# 🔹 Data Analytics Assignment 📌
+#  Introduction
 The Data Analytics Assignment focuses on assessing skills in data cleaning, analysis, and visualization using Python and Power BI. This report highlights the execution and findings from various tasks, including web scraping, dashboard building, and addressing customer success queries.
 This assignment also evaluates how effectively insights can be communicated through visualizations and storytelling to enable decision-making.
 
-# 2. Project Objectives 🎯
+# Project Objectives 🎯
 
 Perform web scraping to collect relevant data (email IDs of colleges in the Mumbai region).
 
