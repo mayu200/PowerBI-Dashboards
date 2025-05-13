@@ -1,80 +1,78 @@
-# 🚀 Power BI Dashboards
+# 📊 Interactive Dashboard Collection – Excel | Power BI | Python
 
-# 📌 Description
-Power BI Dashboards is a collection of interactive data visualization projects 🎯, designed to analyze and interpret complex datasets using Power BI and Excel. These dashboards provide meaningful insights 📊 across various domains, helping users make data-driven decisions with ease!
+Welcome to my dashboard repository! This collection includes a variety of interactive and insightful dashboards developed using **Microsoft Excel**, **Power BI**, and **Python**. These projects showcase my data analytics skills across multiple industries and use-cases.
 
-  # 📊 Dashboards Included
+---
 
-# 🔹 Data Analytics Assignment 📌
-#  Introduction
-The Data Analytics Assignment focuses on assessing skills in data cleaning, analysis, and visualization using Python and Power BI. This report highlights the execution and findings from various tasks, including web scraping, dashboard building, and addressing customer success queries.
-This assignment also evaluates how effectively insights can be communicated through visualizations and storytelling to enable decision-making.
+## 📁 Dashboards Overview
 
-# Project Objectives 🎯
+### 🟢 Excel Dashboards
 
-Perform web scraping to collect relevant data (email IDs of colleges in the Mumbai region).
+| Dashboard Name | Description |
+|----------------|-------------|
+| 🦄 **Global Unicorn Dashboard** | Visualizes valuation and insights of global unicorn startups with slicers, KPIs, and map charts. |
+| ☕ **Coffee Shop Sales Dashboard** | Analyzes sales performance by product, customer type, and region. |
+| 🍕 **Pizza Sales Dashboard** | Sales trends, best-selling products, and revenue insights for a pizza chain. |
+| 🚧 **Road Accident Analysis Dashboard** | Highlights accident locations, time trends, and frequency in a given region using map visuals and pivot charts. |
 
-Clean the provided dataset to prepare it for analysis.
+### 🔵 Power BI Dashboards
 
-Create visualizations to uncover patterns and relationships.
+| Dashboard Name | Description |
+|----------------|-------------|
+| 💼 **HR Analytics Dashboard** | Employee demographics, attrition rates, department-level insights. |
+| 📈 **Loan Analysis Dashboard** | Loan approvals, interest rates, and customer insights from financial data. |
+| 📊 **Sales & Marketing Insights Dashboard** | Comprehensive overview of marketing campaigns, lead conversions, and sales channels. |
+| ☁️ **Cloud Counselage Analytics Assignment** | Includes visualizations from an assignment project using Power BI and Excel. |
 
-Present insights and recommendations through data storytelling.
+### 🟡 Python Dashboards *(Coming Soon)*
 
-Answer specific questions related to customer success and career aspirations.
+| Dashboard Type | Tools Used |
+|----------------|-------------|
+| Sales Analysis | `Pandas`, `Matplotlib`, `Seaborn` |
+| Interactive Dashboard | `Dash`, `Plotly`, `Flask` *(optional)* |
 
-Integrate real-time student data for dynamic insights into education trends.
+---
 
-# Features ✨
+## 🔍 Features
 
-Interactive and customizable dashboards
+- Interactive Filters, Slicers & Timelines
+- KPI Cards, Bar/Line/Pie/Map Charts
+- Clean and professional layouts
+- Real-world business scenarios
+- Consistent and structured formatting
 
-Data filtering and real-time updates
+---
 
-Integration with various data sources
+## 🛠️ Tech Stack
 
-User-friendly interface for better data insights
+- **Excel**: PivotTables, Formulas, Conditional Formatting, Charts
+- **Power BI**: Power Query, DAX, Custom Visuals
+- **Python**: Pandas, Seaborn, Plotly, Jupyter Notebooks
+- **Tools**: GitHub, Excel 365, Power BI Desktop, VS Code, Jupyter Lab
 
-Real-time student data for academic and career analysis
+---
+
+## 📌 How to Use
+
+1. Clone/download the repository.
+2. Open Excel dashboards (`.xlsx`) or Power BI dashboards (`.pbix`, `.pbit`) in their respective applications.
+3. Explore filters, slicers, and visualizations.
+4. For Python notebooks, open `.ipynb` files in Jupyter Notebook.
+
+---
+
+## 💼 Use Cases
+
+- Data Analytics Portfolio
+- Dashboard Design Showcase
+- Industry-specific Reporting Examples
+- Practice for Interviews / Assignments
+
+---
+
+## 🙋‍♀️ Author
+
+**Mayuri (mayu200)**  
+🎓 B.Tech in Data Science | Passionate about AI, Data Analytics, and Visualization  
 
 
-
-# 🔹 HR Analytics Dashboard (Power BI)
-📌 Overview:
-
-Analyzes employee performance, attrition rates, and workforce demographics 👥
-Provides key HR metrics and trend analysis for strategic decision-making 📈
-
-# 🔹 Power BI Loan Analysis
-📌 Overview:
-
-Examines loan approvals, repayments, and risk assessments 💰
-Helps financial institutions understand loan distribution & default patterns 📉
-
-# 🔹 Road Accident Analysis (Excel Dashboard)
-📌 Overview:
-
-Evaluates road accident data to identify high-risk zones 🚦
-Supports traffic management & road safety improvements 🏍️🚗
-
-# ✨ Features
-✅ Interactive & customizable dashboards
-✅ Data filtering & real-time updates
-✅ Seamless integration with multiple data sources
-✅ User-friendly & visually appealing UI 🎨
-
-
-# Usage 🖥️
-
-Open the respective Power BI or Excel dashboard files to explore the insights provided by each project.
-
-Technologies Used 🛠️
-
-Power BI
-
-Microsoft Excel
-
-Python (for data preprocessing)
-
-Pandas & NumPy
-
-SQL
