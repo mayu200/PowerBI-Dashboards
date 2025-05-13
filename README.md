@@ -72,7 +72,7 @@ Welcome to my dashboard repository! This collection includes a variety of intera
 
 ## 🙋‍♀️ Author
 
-**Mayuri (mayu200)**  
+**Mayuri Khatpe**  
 🎓 B.Tech in Data Science | Passionate about AI, Data Analytics, and Visualization  
 
 
